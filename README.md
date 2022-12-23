@@ -1,11 +1,16 @@
 # Image-Processing-Api
 
 /**\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***
+
 Author: Abdelrahman Essam Mohamed
+
 Project_name: image-processing-api
+
 ////////////////////////////////////////////////////////////////////////
 The scripts needed to test/start/build your application :
+
 //\*\* To Install All packages Run on Terminal : npm install
+
 1- Run jasmine and build : npm run test
 
 2- nodemon :npm run start
